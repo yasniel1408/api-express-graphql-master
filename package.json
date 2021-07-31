@@ -2,9 +2,9 @@
   "name": "api-express-graphql-master",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gql-server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon gql-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yasniel Fajardo Egues",
